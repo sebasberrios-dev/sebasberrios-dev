@@ -10,6 +10,7 @@ Construyo sistemas que conectan el mundo real con blockchain. Me apasiona usar I
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A1n-berr%C3%ADos-aguilera-85b39429a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berriossebas92@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/berrios08_/)
 
 ---
 
@@ -74,9 +75,9 @@ Construyo sistemas que conectan el mundo real con blockchain. Me apasiona usar I
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **Smart Contract Verifier** | API REST que reconstruye contratos de Stellar en Docker y verifica hashes criptográficos | Rust · SQLite · Next.js · Docker |
+| **Contract Source Verification** | API REST que reconstruye contratos de Stellar en Docker y verifica hashes criptográficos | Rust · SQLite · Next.js · Docker |
 | **Trackify** | Sistema de trazabilidad de gasto público costarricense sobre Stellar/Soroban | Node.js · Rust · React · Soroban |
-| **Pet Store** | E-commerce completo para tienda de mascotas | Python · Flask · PostgreSQL · React |
+| **Paw Store** | E-commerce completo para tienda de mascotas | Python · Flask · PostgreSQL · React |
 
 ---
 
